@@ -5,7 +5,7 @@
 
 
 - [x] = Ordered/Bought/Already Have
-- 🛒 = Found / In shopping cart / will buy
+- 🛒 = Found / In shopping cart
 
 ## 🛏️ Bedroom
 
