@@ -34,42 +34,41 @@ This list contains things that I already have bought in the past and things that
 - [x] Mortar and Pestle
 - [x] Chef's knife — Victorinox Fibrox 8"
 - [x] Stainless steel spatulas
-- [ ] Kitchen tongs 🛒
-- [ ] Measuring cups & spoons 🛒 -> I like cookin
-- [ ] Can opener 🛒
-- [ ] Kitchen scale 🛒
-- [ ] Meat thermometer 🛒
+- [ ] Kitchen tongs 
+- [ ] Measuring cups & spoons
+- [ ] Can opener
+- [ ] Kitchen scale
+- [ ] Meat thermometer
 - [x] Ice cream scoop
 - [ ] Cutting board
-- [ ] Mixing bowls 🛒 
-- [ ] Whisk 🛒
+- [ ] Mixing bowls
+- [ ] Whisk
 - [ ] Wooden / silicone cooking spoon -> Eh just a regular spoon / dollarstore
-- [ ] Ladle 🛒 -> Dollarstore or Online
-- [ ] Vegetable peeler 🛒 -> Dollarstore
-- [ ] Colander / strainer 🛒 -> Dollarstore
-- [ ] Kitchen scissors 🛒
-- [ ] Oven mitts 🛒
-- [ ] Trivets 🛒
-- [ ] Dish towels 🛒
+- [ ] Ladle
+- [ ] Vegetable peeler
+- [ ] Colander / strainer
+- [ ] Kitchen scissors
+- [ ] Oven mitts
+- [ ] Trivets
+- [ ] Dish towels
 - [ ] Dish rack / drying mat
-- [ ] Baking sheet -> Dollarstore
-- [ ] Oven-safe dish -> Dollarstore
-- [ ] Bottle opener -> Dollarstore
-- [ ] Small electric stove / countertop burner 🛒
-- [ ] Microwave 🛒
-- [ ] Toaster 🛒
-- [ ] Electric kettle 🛒
-- [ ] Coffee maker 🛒 (I like too much coffee to abandon it)
-- [ ] Rice cooker 🛒
-- [x] Blender 🛒
+- [ ] Baking sheet
+- [ ] Oven-safe dish
+- [ ] Small electric stove / countertop burner
+- [ ] Microwave
+- [ ] Toaster
+- [ ] Electric kettle
+- [ ] Coffee maker
+- [ ] Rice cooker
+- [x] Blender
 
 ### Food Storage
 
-- [ ] Food-storage containers 🛒
-- [ ] Plastic wrap / reusable alternative 🛒
-- [ ] Dry-food containers 🛒
-- [ ] Garbage bin 🛒
-- [ ] Garbage bags 🛒
+- [ ] Food-storage containers
+- [ ] Plastic wrap / reusable alternative
+- [ ] Dry-food containers
+- [ ] Garbage bin
+- [ ] Garbage bags
 
 ---
 
@@ -83,24 +82,15 @@ This list contains things that I already have bought in the past and things that
 
 ## 🚿 Bathroom
 
-- [ ] Bath towels 🛒
-- [ ] Hand towels 🛒
-- [ ] Washcloths 🛒
-- [ ] Bath mat
+- [ ] Bath towels
+- [ ] Hand towels
+- [ ] Washcloths
 - [ ] Shower curtain + liner if not included
 - [ ] Toilet paper
-- [ ] Toilet plunger
-- [ ] Toilet brush
+- [ ] Toilet plunger & brush
 - [ ] Bathroom garbage bin
-- [ ] Soap
-- [ ] Soap dispenser
-- [ ] Toothbrush
-- [ ] Toothpaste
-- [ ] Shampoo
-- [ ] Conditioner
-- [ ] Body wash / soap
-- [ ] Shower caddy
-- [ ] Bathroom cleaning supplies
+- [ ] Toothbrush & Toothpaste
+- [ ] Shower products (Soap, Body wash, Shampoo & Conditioner)
 
 ---
 
@@ -108,6 +98,7 @@ This list contains things that I already have bought in the past and things that
 
 - [ ] Laundry hamper / basket
 - [ ] Laundry detergent
+
 ---
 
 ## 🧹 Cleaning
@@ -119,19 +110,12 @@ This list contains things that I already have bought in the past and things that
 - [ ] Vacuum
 - [ ] Microfiber cloths
 - [x] Sponges
-- [ ] Scrub brushes
+- [x] Scrub brushes
 - [ ] Dish soap
 - [ ] Laundry detergent
 - [ ] All-purpose cleaner
-- [ ] Bathroom cleaner
 - [x] Glass cleaner
-- [ ] Disinfectant
-- [ ] Rubber gloves
-- [ ] Paper towels
-- [ ] Magic erasers
 - [x] Duster
-- [ ] Floor cleaner
-
 ---
 
 ## 🧰 Tools
@@ -145,6 +129,7 @@ This list contains things that I already have bought in the past and things that
 - [ ] Drill & Drill bits
 - [ ] Zip ties
 - [x] Velcro strips
+
 ---
 
 ## 🔌 Electrical & Charging
