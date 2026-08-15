@@ -5,7 +5,7 @@
 > Also not all things I WILL buy for an apartment it also contains random tools, I'll start with bare minimum first
 
 - [x] = Ordered/Bought/Already Have
-- 🛒 = Found / In shopping cart
+- 🛒 = Found Somewhere (Might not even buy, just know where to get it)
 
 ## 🛏️ Bedroom
 
