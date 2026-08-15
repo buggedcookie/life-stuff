@@ -3,6 +3,8 @@
 This is a a list of things I have or plan to buy, not everything in that list will be bought, some are just random ideas or straight up just "ChatGPT" giving suggestions
 I care about the bare minimum and practical stuff really : Microwave, Countertop Burner, Toaster Oven. Bathroom/Cooking&Eating stuff and that's it
 
+That list also contains random object I'd want one day, it's kind of messy but I personally know the order of important first, I won't be buying an UPS because I know it's not the most important thing on the list
+
 - [x] = Bought/I already have
   > I only count things that I actually bought fully myself, I plan on re buying things
 - 🛒 = Found somewhere
@@ -18,31 +20,26 @@ I care about the bare minimum and practical stuff really : Microwave, Countertop
 - [ ] Second set of bedsheets
 - [ ] Comforter / duvet 🛒
 - [ ] Blankets 🛒
-- [ ] Hangers
-- [ ] Laundry hamper
+- [ ] Hangers 🛒
+- [ ] Laundry hamper 🛒
 - [x] Fan
 - [x] A normal desk
 - [x] Nightstand
 - [x] Shelve
 - [x] Digital Clock
 - [ ] Mattress topper
-- [ ] Blackout curtains -> Got some blackout rollers
-- [ ] Curtain rod
-- [ ] Full-length mirror
-- [ ] Bedside lamp
-- [ ] Storage bins
-- [ ] Under-bed storage -> Should have if I keep current bedbase
-
+- [ ] Curtain rod 
 ---
 
 ## 🍳 Kitchen — Cooking
+> Not all are imperative, some are just there for maybe one day I'll buy them.
 
 - [x] Cookware set
 - [x] Mortar and Pestle
 - [x] Chef's knife — Victorinox Fibrox 8"
 - [x] Stainless steel spatulas
 - [ ] Kitchen tongs 🛒
-- [ ] Measuring cups & spoons 🛒
+- [ ] Measuring cups & spoons 🛒 -> I like cookin
 - [ ] Can opener 🛒
 - [ ] Kitchen scale 🛒
 - [ ] Meat thermometer 🛒
@@ -72,22 +69,19 @@ I care about the bare minimum and practical stuff really : Microwave, Countertop
 
 ### Food Storage
 
-- [ ] Food-storage containers
-- [ ] Zip bags
-- [ ] Aluminum foil
-- [ ] Plastic wrap / reusable alternative
-- [ ] Dry-food containers
-- [ ] Garbage bin
-- [ ] Garbage bags
+- [ ] Food-storage containers 🛒
+- [ ] Plastic wrap / reusable alternative 🛒
+- [ ] Dry-food containers 🛒
+- [ ] Garbage bin 🛒
+- [ ] Garbage bags 🛒
 
 ---
 
 ## 🍽️ Kitchen — Eating
 
-- [ ] Flatware set 🛒
-- [ ] Dinnerware set 🛒
-- [ ] Cups / glasses 🛒
-- [ ] Mugs
+- [x] Flatware set
+- [x] Dinnerware set
+- [x] Cups / glasses
 
 ---
 
@@ -97,7 +91,7 @@ I care about the bare minimum and practical stuff really : Microwave, Countertop
 - [ ] Hand towels 🛒
 - [ ] Washcloths 🛒
 - [ ] Bath mat
-- [ ] Shower curtain + liner
+- [ ] Shower curtain + liner if not included
 - [ ] Toilet paper
 - [ ] Toilet plunger
 - [ ] Toilet brush
@@ -110,7 +104,6 @@ I care about the bare minimum and practical stuff really : Microwave, Countertop
 - [ ] Conditioner
 - [ ] Body wash / soap
 - [ ] Shower caddy
-- [ ] Drain hair catcher
 - [ ] Bathroom cleaning supplies
 
 ---
@@ -119,12 +112,6 @@ I care about the bare minimum and practical stuff really : Microwave, Countertop
 
 - [ ] Laundry hamper / basket
 - [ ] Laundry detergent
-- [ ] Stain remover
-- [ ] Drying rack
-- [ ] Laundry bags
-- [ ] Dryer sheets / wool dryer balls
-- [ ] Small sewing kit
-
 ---
 
 ## 🧹 Cleaning
@@ -141,120 +128,57 @@ I care about the bare minimum and practical stuff really : Microwave, Countertop
 - [ ] Laundry detergent
 - [ ] All-purpose cleaner
 - [ ] Bathroom cleaner
-- [ ] Glass cleaner
+- [x] Glass cleaner
 - [ ] Disinfectant
 - [ ] Rubber gloves
 - [ ] Paper towels
 - [ ] Magic erasers
-- [ ] Duster
+- [x] Duster
 - [ ] Floor cleaner
-- [ ] Drain snake
 
 ---
 
 ## 🧰 Tools
 
-- [ ] Screwdriver set
+- [ ] Screwdrivers
 - [ ] Hammer
 - [ ] Pliers
-- [ ] Adjustable wrench
 - [ ] Allen keys
-- [ ] Measuring tape
+- [x] Measuring tape
 - [ ] Level
-- [ ] Utility knife
-- [ ] Drill
-- [ ] Drill bits
-- [ ] Electrical tape
-- [ ] Duct tape
+- [ ] Drill & Drill bits
 - [ ] Zip ties
-- [ ] Extension cord
-- [ ] Basic screws
-- [ ] Wall anchors
-- [ ] Super glue
-- [ ] Epoxy
-- [ ] Velcro strips
-- [ ] Command strips / removable hooks
-- [ ] Picture hanging hardware
-- [ ] WD-40-type lubricant
-
+- [x] Velcro strips
 ---
 
 ## 🔌 Electrical & Charging
 
-- [ ] Surge protectors
-- [ ] UPS because I just want one lol
-- [ ] Power strips
-- [ ] Extension cords
+- [ ] Surge protectors & UPS -> one day
+- [ ] Power strips -> need new ones anyway
 - [x] USB-C charging cables
 - [x] Spare phone charger
-- [ ] Spare batteries
-- [ ] Rechargeable batteries
-- [ ] Battery charger
 - [x] Light bulbs -> Got one that is mine
-- [ ] Night light
-- [ ] Outlet adapters / splitters
 - [x] Cable ties / Velcro straps
-- [ ] Cable management
 
 ---
 
-## 🚨 Emergency — Save My Ass
+## 🚨 Health and Practical
 
-- [ ] Flashlight
-- [ ] Spare batteries
-- [ ] Power bank
-- [ ] Spare charging cable
+- [ ] Flashlight 
 - [ ] First-aid kit
-- [ ] Basic medications
-- [ ] Thermometer
-- [ ] Emergency light
-- [ ] Bottled water
-- [ ] Shelf-stable emergency food
-- [ ] Fire extinguisher — if not provided
-- [ ] Know location of smoke detectors
-- [ ] Know location of CO detectors
-- [ ] Spare key
-- [ ] Copies of important documents
-- [ ] Emergency contact information
-- [ ] Landlord / building emergency number
-- [ ] Emergency blanket
-- [ ] Hand warmers
-- [ ] Small emergency radio
-- [ ] Know location of breaker panel
-- [ ] Know location of water shutoff
-- [ ] Know location of fire exits
-
----
 
 ## 🐶 Dog
+> Checking if he's allowed ofc
 
 - [x] Dog bed
 - [x] Food bowl
 - [x] Water bowl
-- [ ] Food-storage container
+- [x] Food-storage container
 - [x] Leash
 - [x] Harness / collar
-- [ ] ID tag
-- [ ] Poop bags
+- [x] ID tag
+- [x] Poop bags
 - [x] Toys
-- [ ] Grooming supplies
-- [ ] Cleaning supplies for accidents
-- [ ] Confirm apartment allows dogs
-- [ ] Check breed / size restrictions
-- [ ] Check pet deposit / fees
-- [ ] Find nearby dog-walking areas
-- [ ] Find nearby veterinarian
-- [ ] Plan dog-food storage
-- [ ] Food measuring cup
-- [ ] Food mat
-- [ ] Spare leash
-- [ ] Spare collar
-- [ ] Poop-bag dispenser
-- [ ] Enzyme cleaner
-- [ ] Update microchip information
-- [ ] Save emergency vet information
-
----
 
 ## 💻 Computer & Desk
 
@@ -262,129 +186,4 @@ I care about the bare minimum and practical stuff really : Microwave, Countertop
 - [x] Computer Desk ($331.12)
    - [x] [FLEXISPOT EN2 Whole-Piece Standing Desk with Clamp Power Strip, 55 x 28 Electric Stand Up Height Adjustable Desk with Cable Management (Black Frame + 55" White Top, 2 Packages)](https://www.amazon.ca/dp/B09LLPY25L)
 - [x] Existing computer equipment
-- [ ] Surge protector
-- [ ] Ethernet cable
-- [ ] Extension cables
-- [ ] Cable management
-- [ ] Desk lighting
-- [ ] Desk lamp
 - [x] Monitor stand / arm
-
----
-
-## 🌐 Internet
-
-- [ ] Determine whether apartment includes internet
-- [ ] Choose ISP
-- [ ] Router if required
-- [ ] Check ISP compatibility
-- [ ] Arrange installation
-- [ ] Ethernet cables
-- [ ] Determine router location
-- [ ] Wi-Fi setup
-
----
-
-## 🏠 Apartment & Moving
-
-### Before Renting
-
-- [ ] Set monthly housing budget
-- [ ] Estimate utilities
-- [ ] Research renter's insurance
-- [ ] Research apartments
-- [ ] Visit apartment before signing
-- [ ] Read lease completely
-- [ ] Verify what is included in rent
-- [ ] Verify pet rules
-- [ ] Ask about parking
-- [ ] Ask about laundry
-- [ ] Ask about heating
-- [ ] Ask about electricity
-- [ ] Ask about water
-- [ ] Ask about internet
-- [ ] Ask about noise rules
-- [ ] Ask about drilling / wall modifications
-- [ ] Get landlord emergency contact
-
-### Moving
-
-- [ ] Declutter
-- [ ] Sell / donate unwanted items
-- [ ] Measure apartment
-- [ ] Measure doorways
-- [ ] Buy moving boxes
-- [ ] Buy packing tape
-- [ ] Label boxes
-- [ ] Pack non-essential items first
-- [ ] Arrange transportation
-- [ ] Arrange help if needed
-- [ ] Set up internet
-- [ ] Update address where necessary
-
-### Move-In Day
-
-- [ ] Photograph/video entire apartment before unpacking
-- [ ] Photograph existing damage
-- [ ] Photograph appliances
-- [ ] Record meter readings if applicable
-- [ ] Test lights
-- [ ] Test outlets
-- [ ] Test faucets
-- [ ] Test toilet
-- [ ] Test shower
-- [ ] Test appliances
-- [ ] Test heating
-- [ ] Check smoke detectors
-- [ ] Check CO detectors
-- [ ] Check locks
-- [ ] Check windows
-- [ ] Locate breaker panel
-- [ ] Locate water shutoff
-- [ ] Locate fire exits
-- [ ] Locate laundry
-- [ ] Locate garbage / recycling
-- [ ] Locate mailbox
-
----
-
-## 💰 Budget & Finances
-
-- [ ] Determine maximum affordable rent
-- [ ] Estimate monthly food cost
-- [ ] Estimate electricity cost
-- [ ] Estimate internet cost
-- [ ] Estimate transportation
-- [ ] Estimate renter's insurance
-- [ ] Estimate dog expenses
-- [ ] Build emergency fund
-- [ ] Budget for first month's rent
-- [ ] Budget for required deposits
-- [ ] Budget for moving expenses
-- [ ] Keep money aside for unexpected expenses
-- [ ] Taxes
-- [ ] Track apartment purchases
-- [ ] Keep receipts for expensive purchases
-- [ ] Keep warranties / manuals
-
----
-
-## ✨ Nice To Have
-
-- [ ] Shelving
-- [ ] Storage organizers
-- [ ] Additional furniture
-- [ ] Rugs
-- [x] Curtains / blinds
-- [ ] Bathroom organizers
-- [ ] Kitchen organizers
-- [ ] Decorations
-- [ ] Plants
-- [ ] Fancy kitchen gadgets
-- [ ] Better utensils
-- [ ] Extra cookware
-- [ ] Extra food-storage containers
-- [ ] Speakers
-- [ ] TV
-- [ ] Extra lighting
-- [ ] Other fun stuff
