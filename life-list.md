@@ -1,27 +1,23 @@
 # First place 
 
-This is a a list of things I have or plan to buy, not everything in that list will be bought, some are just random ideas or straight up just "ChatGPT" giving suggestions
-I care about the bare minimum and practical stuff really : Microwave, Countertop Burner, Toaster Oven. Bathroom/Cooking&Eating stuff and that's it
+This list contains things that I already have bought in the past and things that I plan on buying in the future, not everything is equally important, some objects are just random ideas/quality of life stuff or straight up ChatGPT's suggestion, not because I think everything is important here. Some stuff are just some notes like... the "UPS/Surge Protector" is mainly because I wanted to buy one eventually.
 
-That list also contains random object I'd want one day, it's kind of messy but I personally know the order of important first, I won't be buying an UPS because I know it's not the most important thing on the list
-
-- [x] = Bought/I already have
-  > I only count things that I actually bought fully myself, I plan on re buying things
-- 🛒 = Found somewhere
+- [x] = Bought or already have
+> I only count things that I bought 100% myself
 
 ## 🛏️ Bedroom
 
 - [ ] Mattress
 - [x] Bed base
-- [ ] Mattress protector 🛒
-- [ ] Pillows 🛒
-- [ ] Pillow protectors 🛒
-- [ ] Bedsheets 🛒
+- [ ] Mattress protector 
+- [ ] Pillows 
+- [ ] Pillow protectors
+- [ ] Bedsheets 
 - [ ] Second set of bedsheets
-- [ ] Comforter / duvet 🛒
-- [ ] Blankets 🛒
-- [ ] Hangers 🛒
-- [ ] Laundry hamper 🛒
+- [ ] Comforter / duvet 
+- [ ] Blankets 
+- [ ] Hangers 
+- [ ] Laundry hamper 
 - [x] Fan
 - [x] A normal desk
 - [x] Nightstand
@@ -181,9 +177,7 @@ That list also contains random object I'd want one day, it's kind of messy but I
 - [x] Toys
 
 ## 💻 Computer & Desk
-
-- [x] Computer (GPU,CPU,RAM, MOBO, CASE, PSU, COOLER ALL ME)
+- [x] Computer
 - [x] Computer Desk ($331.12)
-   - [x] [FLEXISPOT EN2 Whole-Piece Standing Desk with Clamp Power Strip, 55 x 28 Electric Stand Up Height Adjustable Desk with Cable Management (Black Frame + 55" White Top, 2 Packages)](https://www.amazon.ca/dp/B09LLPY25L)
 - [x] Existing computer equipment
 - [x] Monitor stand / arm
