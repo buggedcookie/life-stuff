@@ -148,21 +148,5 @@ This list contains things that I already have bought in the past and things that
 - [ ] Flashlight 
 - [ ] First-aid kit
 
-## 🐶 Dog
-> Checking if he's allowed ofc
-
-- [x] Dog bed
-- [x] Food bowl
-- [x] Water bowl
-- [x] Food-storage container
-- [x] Leash
-- [x] Harness / collar
-- [x] ID tag
-- [x] Poop bags
-- [x] Toys
-
 ## 💻 Computer & Desk
-- [x] Computer
-- [x] Computer Desk ($331.12)
-- [x] Existing computer equipment
-- [x] Monitor stand / arm
+- [x] All my computer stuff
