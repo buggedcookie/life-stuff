@@ -2,7 +2,7 @@
 
 ### A list of things I want or need for living in apartment
 ### Some stuff are listed because I already have them, not necessarily for apartment living! (It's also kind of an inventory of what I already have)
-
+> Also not all things I WILL buy for an apartment it also contains random tools, I'll start with bare minimum first
 
 - [x] = Ordered/Bought/Already Have
 - 🛒 = Found / In shopping cart
