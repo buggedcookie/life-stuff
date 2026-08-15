@@ -366,25 +366,24 @@
 - [x] Dog bed
 - [x] Food bowl
 - [x] Water bowl
-- [ ] Food-storage container
+- [x] Food-storage container
 - [x] Leash
 - [x] Harness / collar
-- [ ] ID tag
+- [x] ID tag
 - [ ] Poop bags
 - [x] Toys
-- [ ] Grooming supplies
-- [ ] Cleaning supplies for accidents
+- [x] Grooming supplies
+- [x] Cleaning supplies for accidents
 - [ ] Confirm apartment allows dogs
 - [ ] Check breed / size restrictions
 - [ ] Check pet deposit / fees
 - [ ] Find nearby dog-walking areas
 - [ ] Find nearby veterinarian
 - [ ] Plan dog-food storage
-- [ ] Food measuring cup
+- [x] Food measuring cup
 - [ ] Food mat
-- [ ] Spare leash
-- [ ] Spare collar
-- [ ] Poop-bag dispenser
+- [x] Spare leash
+- [x] Spare collar
 - [ ] Enzyme cleaner
 - [ ] Update microchip information
 - [ ] Save emergency vet information
